@@ -1,2 +1,2 @@
-# DataStructures-Alg-Compl
+# AlgorithmsDataSructures
 A-Leve Course
